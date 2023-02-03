@@ -378,7 +378,7 @@ android_app_import {
 	},
 	privileged: true,
 	system_ext_specific: true,
-]
+}
 
 android_app_import {
 	name: "MyVerizonServices",
